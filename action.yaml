@@ -1,0 +1,6 @@
+
+name: 'Puppeteer Headful'
+description: 'Github Action for Puppeteer that can be ran "headful" or not headless.'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
